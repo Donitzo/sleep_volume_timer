@@ -1,3 +1,8 @@
+__version__ = '0.1.0'
+__author__  = 'Donitz'
+__license__ = 'MIT'
+__repository__ = 'https://github.com/Donitzo/sleep_volume_timer'
+
 import sys
 import time
 import os
