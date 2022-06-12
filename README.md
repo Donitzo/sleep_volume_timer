@@ -5,7 +5,7 @@ The script changes from a max to a min volume of a set amount of time (depending
 
 # usage
 
-NOTE: Use a reasonable default volume to avoid hurting your ears.
+NOTE: Use reasonable volume values to avoid hurting your ears. A minimum volume of 0 is reasonable if you want the volume to fade out entirely. The max volumes depend on your headphone/speaker setup. I used a value of 0.07 (%7) max volume which was reasonably quiet for bedtime.
 
 Configure the volume settings in sleep_volume_timer.py:
 
