@@ -9,13 +9,13 @@ NOTE: Use reasonable volume values to avoid hurting your ears. A minimum volume 
 
 Configure the volume settings in sleep_volume_timer.py:
 
-`EARLY_MAX_VOLUME`: Early max volume (0-1)
+`EARLY_MAX_VOLUME`: Max speaker volume when it's "early" (0-1)
 
-`LATE_MAX_VOLUME`: Late max volume (0-1)
+`LATE_MAX_VOLUME`: Max speaker volume when it's "late" (0-1)
 
-`EARLY_MIN_VOLUME`: Early min volume (0-1)
+`EARLY_MIN_VOLUME`: Min speaker volume when it's "early" (0-1)
 
-`LATE_MIN_VOLUME`: Late min volume (0-1)
+`LATE_MIN_VOLUME`: Min speaker volume when it's "late" (0-1)
 
 `EARLY_TO_LATE_SECONDS`: Early to late seconds
 
